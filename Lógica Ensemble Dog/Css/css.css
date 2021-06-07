@@ -1,0 +1,176 @@
+*{
+    position: relative;
+    margin: 0px;
+}
+
+#A{
+    margin-left: 16%;
+}
+
+section{
+    height: 450px;
+    background: transparent;
+    overflow: hidden;
+    margin: 10%;
+    position: relative;
+}
+
+article{
+    background-color: antiquewhite;
+    width: 47%;
+    height: 30px;
+    text-align: center;
+    border-radius: 20px!important;
+}
+section ul{
+    width: 300%;
+    height: 400px;
+    background-color: transparent;
+    margin: 0%;
+    padding: 0%;
+}
+
+section ul li{
+    width: 70%;
+    height: 450px;
+    list-style: none;
+    background: transparent;
+    float: left;
+    margin: 0%;
+    padding: 0%;
+    margin-bottom: 2%;
+}
+
+/*__________________________________________________________________*/
+
+#imgsInicio img{
+    width: 50%;
+    height: 275px;
+    border-radius: 10px;
+}
+
+#imgsInicio{
+    width:  50%;
+    height: 275px;
+    margin-left: 10%;
+    margin-top: 1.25%;
+}
+
+#inputsInicio{
+    width: 50%;
+    margin-left: 10%;
+}
+
+#inputsInicio input{
+    width: 50%;
+    height: 50px;
+    margin-top: 2.5%;
+}
+
+/* ___________________________________________________________________*/
+
+#imgsPer1{
+    width:  50%;
+    height: 200px;    
+    margin-left: 5%;
+    margin-top: 3.5%;
+}
+
+#imgsPer1 img{
+    width: 25%;
+    height: 200px;
+    border-radius: 10px;
+}
+
+#inputsPer1{
+    width: 50%;
+    height: 100px;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+
+#inputsPer1 input{
+    width: 25%;
+    height: 50px;
+
+}
+
+/*_____________________________________________________________*/
+
+
+#imgFinal img{
+    width: 50%;
+    height: 275px;
+    border-radius: 10px;
+}
+
+#imgFinal{
+    width:  50%;
+    height: 275px;
+    margin-left: 10%;
+    margin-top: 1.25%;
+}
+
+#inputFinal{
+    width: 50%;
+    height: 50px;
+    margin-left: 10%;
+}
+
+#inputFinal input{
+    width: 50%;
+    height: 50px;
+    margin-top: 2.5%;
+}
+
+.caracteristicas{
+    font-size: 16pt;
+    color: rgb(20, 20, 20);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    float: left;
+    width: 55%;
+    box-sizing: border-box;
+    border-radius: 15px;
+    background-color: rgba(255, 208, 169, 0.849);
+    padding: 5px;
+
+}
+
+.caracteristicas h3{
+    font-size: 17pt;
+}
+
+.caracteristicas p{
+    margin: 5px;
+}
+
+#mostroario{
+    max-width: 60%;
+    background-color: rgb(255, 255, 255) ;
+    margin: 10%;
+    display: none;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgb(192, 191, 191);
+    padding: 25px;
+    font-family: 'Calibri';
+}
+
+#img{
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+#mostroario h2{
+    margin-top: 15px;
+    display: inline-block;
+    margin-right: 8px;
+}
+
+#mostroario span{
+    margin-bottom: 20px;
+    font-size: 15pt;
+}

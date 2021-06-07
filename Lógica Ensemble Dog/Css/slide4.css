@@ -1,0 +1,26 @@
+
+#imgsPer4{
+    width:  50%;
+    height: 200px;    
+    margin-left: 3.5%;
+    margin-top: 3.5%;
+}
+
+#imgsPer4 img{
+    width: 36%;
+    height: 200px;
+    border-radius: 10px;
+}
+
+#inputsPer4{
+    width: 50%;
+    height: 100px;
+    margin-left: 3.5%;
+    margin-top: 1%;
+}
+
+#inputsPer4 input{
+    width: 36%;
+    height: 50px;
+
+}

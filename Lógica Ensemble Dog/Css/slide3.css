@@ -1,0 +1,26 @@
+
+#imgsPer3{
+    width:  30%;
+    height: 125px;    
+    margin-left: 10%;
+    margin-top: 1%;
+}
+
+#imgsPer3 img{
+    width: 30%;
+    height: 125px;
+    border-radius: 10px;
+}
+
+#inputsPer3{
+    width: 30%;
+    height: 50px;
+    margin-left: 10%;
+    margin-top: 0.5%;
+}
+
+#inputsPer3 input{
+    width: 30%;
+    height: 25px;
+
+}

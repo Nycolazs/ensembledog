@@ -1,0 +1,13 @@
+/* Formatação do identificador */
+.geral-total{
+    max-width: 100%;
+}
+
+.geral-total main{
+    width: 980px;
+    margin: 0px auto;
+}
+
+.header-2{
+    max-width: 100%;
+}

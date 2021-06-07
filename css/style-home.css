@@ -1,0 +1,302 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Calibri';
+}
+a{
+    text-decoration: none;
+}
+/* header 1 */
+.header1 {
+    background-color: #47200F;
+    height: 44px;
+    max-width: 100%;
+}
+.menu-extra {
+    width: 980px;
+    margin: 0px auto;
+    height: 44px;
+}
+#extra1 {
+    font-size: 15px;
+    color: white;
+    height: 44px;
+    background-image: url('../img/newIcon/old-handphone-64.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 30px;
+    display: inline-block;
+}
+#extra1 span {
+    margin-left: 35px;
+    line-height: 44px;
+}
+#extra2 {
+    font-size: 15px;
+    display: inline-block;
+    margin-left: 100px;
+    color: white;
+    height: 44px;
+    background-image: url('../img/newIcon/email-filled-closed-envelope-64.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 30px;
+}
+#extra2 span {
+    margin-left: 40px;
+    line-height: 44px; 
+}
+#extra3 {
+    font-size: 15px;
+    float: right;
+    color: white;
+    height: 44px;
+    background-image: url('../img/newIcon/placeholder-filled-point-64.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 30px;
+    display: inline-block;
+}
+#extra3 span {
+    margin-left: 35px;
+    line-height: 44px;
+}
+
+/* Logo Principal */
+
+.logo-principal{
+    max-width: 100%;
+    background-color: #090A04;
+    
+}
+
+.logo-principal main{
+    width: 980px;
+    margin: 0px auto;
+}
+
+.lg{
+    background-image: url('../img/logo.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 40%;
+    width: 980px;
+    height: 450px;
+}
+
+.titulo-logo{
+    font-family: 'Prime';
+    width: 980px;
+    height: 150px;
+    text-align: center;
+}
+
+.titulo-logo span{
+    color: #ffffff;
+    font-size: 100px;
+    line-height: 150px;
+}
+
+/* Mensagem Bem-Vindo */
+
+.box-01-total{
+ max-width: 100%;
+}
+
+.box-01-total main{
+    width: 980px;
+    margin: 0px auto;
+}
+
+.sub-box-geral{
+    margin-top: 50px;
+    height: 400px;
+    width: 980px;
+}
+
+.sub-box-0{
+    width: 500px;
+    height: 400px;
+    float: left;
+}
+
+.sub-box-1{
+    width: 500px;
+    border-bottom: 3px solid #D9C7B8;
+}
+
+#text-1{
+    text-transform: uppercase;
+    font-size: 45px;
+    color: rgb(58, 61, 241);
+}
+
+#text-2{
+    text-transform: uppercase;
+    font-size: 45px;
+    color: #47200F;
+}
+
+#text-3{
+    font-size: 20px;
+    color: #BF8C60;
+}
+
+.sub-box-img{
+    float: right;
+    background-color: #BF8C60;
+    height: 400px;
+    width: 400px;
+    background-image: url('../img/medidas\ de\ distancia\ z.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 1000px;
+}
+
+/* Sessão do botão de teste */
+.iniciar-teste{
+    margin-top: 50px;
+    max-width: 100%;
+    background-color: #090A04;
+}
+
+.iniciar-teste main{
+    width: 980px;
+    margin: 0px auto;
+}
+
+.espaco{
+    width: 980px;
+    height: 20px;
+}
+
+.titulo-btn{
+    width: 980px;
+}
+
+.cont{
+    width: 980px;
+    text-align: center;
+}
+
+.titulo-btn span{
+    font-size: 60px;
+    color: #C7966E;
+}
+
+.btn-flm{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    position: relative;
+}
+
+.btn-flm button{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 200px;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0);
+    font-size: 20px;
+    color: #ffffff;
+    outline: none;
+    cursor: pointer;
+    border: 3px solid #ffffff;
+    border-radius: 300px;
+    transition: background-color 1.5s;
+}
+
+.btn-flm a:hover button{
+    background-color: white;
+    text-decoration: underline;
+    color: #47200F;
+    border:3px solid #47200F;
+    border-radius: 300px;
+}
+
+/* Footer */
+.geral{
+    background-color: #47200F;
+    max-width: 100%;
+}
+
+.pre-footer{
+    width: 980px;
+    margin: 0px auto;
+}
+
+.primario{
+    width: 980px;
+}
+
+#info-1{
+    display: inline-block;   
+    width: 300px;
+}
+
+#info-2{
+    position: relative;
+    left: 50%;
+    transform: translateX(-150%);
+    display: inline-block;
+    height: 400px;
+    width: 300px;
+}
+
+#info-3{
+    display: inline-block;
+    float: right;
+    height: 400px;
+    width: 300px;
+}
+
+.conteiner-1{
+    width: 300px;
+    height: 256px;
+    background-image: url('../img/newIcon/old-handphone-256.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 156px;
+}
+
+.conteiner-2{
+    width: 300px;
+    height: 144px;
+    text-align: center;
+}
+
+.conteiner-3{
+    width: 300px;
+    height: 256px;
+    background-image: url('../img/newIcon/email-filled-closed-envelope-256.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 156px;
+}
+
+.conteiner-4{
+    width: 300px;
+    height: 144px;
+    text-align: center;
+}
+
+.conteiner-5{
+    width: 300px;
+    height: 256px;background-image: url('../img/newIcon/placeholder-filled-point-256.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 156px;
+
+}
+
+.conteiner-6{
+    width: 300px;
+    height: 144px;
+    text-align: center;
+}
+
+#msg-icon{
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+}
